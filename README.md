@@ -31,3 +31,18 @@ The Recipes Flutter App is a cross-platform mobile application built using the F
    ```sh
    git clone https://github.com/plux96/flutter-meals-app.git
    ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd flutter-meals-app
+   ```
+
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
