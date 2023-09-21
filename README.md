@@ -1,10 +1,8 @@
 # Recipes Flutter App
 
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
-
 The Recipes Flutter App is a cross-platform mobile application built using the Flutter framework. It's designed to help users discover, save, and prepare a wide range of delicious recipes. Whether you're a seasoned chef or a novice cook, this app has something for everyone.
 
-![App Screenshot](lib/assets/page1.png)
+<img src="https://github.com/plux96/flutter-meals-app/blob/main/lib/assets/page1.png" alt="App Screenshot" width="400"/>
 
 ## Features
 
@@ -31,5 +29,5 @@ The Recipes Flutter App is a cross-platform mobile application built using the F
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/recipes-flutter-app.git
+   git clone https://github.com/plux96/flutter-meals-app.git
    ```
